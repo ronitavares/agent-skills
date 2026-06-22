@@ -1,3 +1,22 @@
+## 0.14.6 (2026-06-22)
+
+### 🚀 Features
+
+- **megabrain:** implement lessons management script for deterministic bookkeeping ([123ecd254](https://github.com/tech-leads-club/agent-skills/commit/123ecd254))
+- **megabrain:** update specify.md to include guidance on loading confirmed lessons ([685928325](https://github.com/tech-leads-club/agent-skills/commit/685928325))
+- **megabrain:** introduce lessons documentation for self-improving layer ([d6360e79c](https://github.com/tech-leads-club/agent-skills/commit/d6360e79c))
+- **megabrain:** add guidance for loading confirmed lessons in design documentation ([df32b92d2](https://github.com/tech-leads-club/agent-skills/commit/df32b92d2))
+- **megabrain:** enhance skill description and add lessons functionality ([df99c83de](https://github.com/tech-leads-club/agent-skills/commit/df99c83de))
+- **validate:** add mandatory lesson distillation step after validation report ([8cc430ff6](https://github.com/tech-leads-club/agent-skills/commit/8cc430ff6))
+
+### 🩹 Fixes
+
+- **megabrain:** update task implementation guidance to use megabrain skill ([018f8e034](https://github.com/tech-leads-club/agent-skills/commit/018f8e034))
+
+### ❤️ Thank You
+
+- felipfr
+
 ## 0.14.5 (2026-06-21)
 
 ### 🚀 Features
